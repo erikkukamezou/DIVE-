@@ -1,0 +1,48 @@
+
+.contact {
+  color:#4D4D4D;
+}
+
+.contact tr {
+  height: 7rem;
+}
+
+.contact th {
+  width: 150px;
+  background-color: white;
+  color: black;
+}
+
+.name, .email {
+  width: 480px;
+}
+
+textarea {
+  width: 480px;
+}
+
+/* .contact td {
+  width: 480px;
+
+} */
+
+/* input[type="text name"],input[type="mail-adress"],textarea{
+  width: 480px;
+  margin:30px 0px;
+} */
+
+.contact-submit{
+  color: white;
+  font-size: 3rem;
+  background-color: #008B8B;
+  margin: 10px;
+}
+.contact-submit:hover{
+  opacity: 0.5;
+}
+.button{
+  text-align : center;
+}
+.aside{
+  margin-left: 10px
+}
